@@ -1,7 +1,7 @@
-# 📊 E-COMMERCE SALES REVENUE
+## 📊 E-COMMERCE SALES REVENUE
 An interactive Power Bi Dashboard to a analyze e-commerce sales revenue from Jan 204 till August 2024.
-#
-# 📊 Project Overview 
+##
+## 📊 Project Overview 
 To buil an interactive E-commerce sales Dashboard that answers the following questions;
 
 👉🏾 ‌Which products are our top sellers? 
@@ -67,9 +67,6 @@ Clothing sold the most units across all categories.
 
 Power Bi
 #
-Dashboard Preview 
-
-
 
 
 
